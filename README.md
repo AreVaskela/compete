@@ -1,0 +1,2 @@
+# compete
+Kilpailupeli PWA opetteluksi
